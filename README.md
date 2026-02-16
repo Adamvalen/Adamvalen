@@ -20,3 +20,8 @@ I’m learning cybersecurity step by step and building practical skills.
 - cyber-notes (learning notes & practice)
 
 📅 Started: 2026
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adamvalen&show_icons=true&theme=tokyonight)
